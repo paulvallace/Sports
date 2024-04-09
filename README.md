@@ -1,0 +1,1 @@
+Used Tweepy and TextBlob libraries to access twitters APIs in order to discover the news on the Red Sox upcoming games. With an end goal of determining if there are more positive or negative news on the team for the upcoming games.
